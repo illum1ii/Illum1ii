@@ -1,8 +1,7 @@
 ### Top Languages
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Illum1ii&theme=)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Illum1ii&theme=">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illum1ii&theme=" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
