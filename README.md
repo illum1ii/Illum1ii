@@ -1,5 +1,5 @@
 ### Top Languages
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Illum1ii&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Illum1ii&theme=)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Project's
