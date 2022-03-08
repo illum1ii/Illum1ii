@@ -1,5 +1,8 @@
-# Languages I learn or use
+# Learned languages
 NodeJS, TypeScript, JavaScript, Java, Python, C++, CSharp, Batch, Rust, HTML5, CSS, SCSS
+
+# Languages I use
+![node] ![javascript] ![typescript] ![python]
 
 # Tools
 ![visualstudiocode] ![visualstudio] ![photoshop] ![github]
