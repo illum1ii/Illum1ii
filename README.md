@@ -1,10 +1,10 @@
-### Languages
+# Languages
 ![node] ![javascript] ![typescript] ![react] ![python]
 
-### Tools
+# Tools
 ![visualstudiocode] ![visualstudio] ![photoshop] ![github]
 
-### What I do and why (maybe because i'm bored...) ?
+# Exemple of what I do when I'm bored  ?
 ##### NodeJS & JavaScript algorythm optimizing
 >> For example this function sends several requests, but we make it fast by sending these requests in parallel and asynchronously ! Now imagine that you need 18,000 requets or a lot of complex mathematical equations ?
 >
