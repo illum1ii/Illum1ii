@@ -1,4 +1,4 @@
-# Languages
+# Languages I learn or use
 NodeJS, TypeScript, JavaScript, Java, Python, C++, CSharp, Batch, Rust, HTML5, CSS, SCSS
 
 # Tools
