@@ -1,5 +1,5 @@
 # Languages
-![node] ![javascript] ![typescript] ![react] ![python]
+NodeJS, TypeScript, JavaScript, Java, Python, C++, CSharp, Batch, Rust, HTML5, CSS, SCSS
 
 # Tools
 ![visualstudiocode] ![visualstudio] ![photoshop] ![github]
