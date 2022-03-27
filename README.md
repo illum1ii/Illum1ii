@@ -1,7 +1,7 @@
 # Learned languages
 NodeJS, TypeScript, JavaScript, Java, Python, C++, Lua, CSharp, Batch, Rust, HTML5, CSS
 
-# Languages I use
+# Most used languages
 ![node] ![javascript] ![typescript] ![python]
 
 # Tools
