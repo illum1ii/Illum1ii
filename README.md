@@ -1,5 +1,5 @@
 # Learned languages
-NodeJS, TypeScript, JavaScript, Java, Python, C++, CSharp, Batch, Rust, HTML5, CSS, SCSS
+NodeJS, TypeScript, JavaScript, Java, Python, C++, Lua, CSharp, Batch, Rust, HTML5, CSS
 
 # Languages I use
 ![node] ![javascript] ![typescript] ![python]
@@ -7,10 +7,17 @@ NodeJS, TypeScript, JavaScript, Java, Python, C++, CSharp, Batch, Rust, HTML5, C
 # Tools
 ![visualstudiocode] ![visualstudio] ![photoshop] ![github]
 
-# Exemple of what I do when I'm bored  ?
-##### NodeJS & JavaScript algorythm optimizing
-
-
+# Projects
+##### Stonks Portal | #3 Fastest Hypixel auction flipping bot (ChatTriggerJs, NodeJs, Rust)
+##### Cypher Pol | Player inventory, status tracker (NodeJs, TypeScript, Electron)
+##### Dwarven Tools | Hypixel Modules for Dwarven Mines (ChatTriggerJs)
+##### CSFLIP | CSGO Cases Flipper (NodeJs)
+##### Mirage Core | Minecraft Core Plugin (Java Spigot)
+##### Hypixel Players Data | Graph and Graphics of Hypixel Skyblock player (ChartJs, Web)
+##### Raytracing Engine (NodeJs, C++)
+##### Sodium | Discord bot (NodeJs)
+##### GInject | Gmod binary data injector (Lua)
+##### Better Skyblock | Multi-tools software for Hypixel Skyblock (NodeJs, CSharp, Electron)
 
 [node]: https://badges.aleen42.com/src/node.svg
 [javascript]: https://badges.aleen42.com/src/javascript.svg
