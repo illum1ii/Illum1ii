@@ -1,9 +1,9 @@
 #### ➥ Profile
 
-- I'm illum1ii
-- I code for fun
-- Interested by algorithms when I was 11, and interested in optimization and low-level languages since 2019 and created multiple projects.
-- Cool french guy btw
+👋 - I'm illum1ii
+🐬 - I code for fun
+🤓 - Interested by algorithms when I was 11, and interested in optimization and low-level languages since 2019 and created multiple projects.
+😎 - Cool french guy btw
 
 #### ➥ Learned languages
 ##### ``Rust, CSharp, Js, Web, Python, Batch, Java (Spigot)``
