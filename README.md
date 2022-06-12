@@ -6,7 +6,7 @@
 - Cool guy btw
 
 #### ➥ Learned languages
-##### ``Rust, CSharp, (NodeJs, TypeScript, Electron, VueJS, CTJs, Three.JS), Web, Python, Batch, Java (Spigot)``
+##### ``Rust, CSharp, Js, Web, Python, Batch, Java (Spigot)``
 
 #### ➥ Most used languages
-##### ``JavaScript (NodeJs, TypeScript, Electron, VueJS, CTJs, Three.JS), Web (HTML5, CSS, SCSS), Python, CSharp``
+##### ``JavaScript (NodeJs, TypeScript, Electron, VueJS, CTJs, Three.JS), Web (HTML5, CSS, SCSS), Rust``
