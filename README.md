@@ -9,13 +9,13 @@
 ![Rust](https://img.shields.io/badge/Rust-f58742?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaSCRIPT-f5e042?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSharp](https://img.shields.io/badge/Csharp-a103fc?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Web](https://img.shields.io/badge/html,%20css-1ea843?style=for-the-badge&logo=web&logoColor=white)
 ![Bat](https://img.shields.io/badge/.bat-292929?style=for-the-badge&logo=html&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2b51fc?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ff5462?style=for-the-badge&logo=java&logoColor=white)
 
 #### ➥ Learned frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
