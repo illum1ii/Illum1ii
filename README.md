@@ -1,4 +1,6 @@
-- 👋 I'm illum1ii.
-- 🐬 I code for fun, and learning by my self.
-- 🤓 Interested by algorithms when I was 11, and interested in code optimization and low-level languages since 2020.
-- 😎 Cool french guy btw.
+> # Hello world !
+
+>- 👋 I'm illum1ii.
+>- 🐬 I code for fun, and learning by my self.
+>- 🤓 Interested by algorithms when I was 11, and interested in code optimization and low-level languages since 2020.
+>- 😎 Cool french guy btw.
